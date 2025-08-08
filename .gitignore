@@ -1,0 +1,31 @@
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Vite
+dist/
+.vite/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+*.log
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Misc
+*.swp
+*.swo
+*.bak
